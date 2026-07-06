@@ -1,117 +1,107 @@
 {
-  "weekLabel": "Week of Jun 30 - Jul 6 &middot; refreshed Wed Jul 1. Tap a source to confirm before you go.",
-  "updated": "2026-07-01",
+  "weekLabel": "Week of Jul 6 - 12 &middot; refreshed Sun Jul 5. Tap a source to confirm before you go.",
+  "updated": "2026-07-05",
   "events": [
     {
       "tier": "headline",
-      "when": "Sat Jul 4, music from 7pm, fireworks 9:15pm",
-      "name": "Ogunquit 4th of July Fireworks",
-      "theme": "festival",
-      "zone": "Maine / NH",
-      "drive": "~80 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free &middot; Ogunquit Beach, ME. You are already up there Jul 2-4, so this is your holiday: DJ Don spinning requests from 7pm at the Beach Street turnaround, fireworks over the water at 9:15pm. Watch from Main Beach, the Marginal Way, or Footbridge Beach. The Main Beach lot closes early for pyro setup, so walk from town or grab a spot early. Rain date Jul 5. <a href=\"https://www.ogunquit.org/fourth-of-july-celebration/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Thu Jul 2 - Sat Jul 4",
-      "name": "Boston Harborfest",
-      "theme": "festival",
-      "zone": "Boston",
-      "drive": "~30 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free &middot; Downtown Boston / waterfront. One of the country's biggest July 4th festivals, and 2026 marks the 250th anniversary of the Revolution: reenactors, USS Constitution turnaround sail, Freedom Trail tours, free live music at Christopher Columbus Park. Harborfest fireworks Thu Jul 2 at 9:15pm from Long Wharf. <a href=\"https://www.bostonharborfest.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 4, concert 7-9:30pm, fireworks 9:15pm",
-      "name": "Boston Pops July 4 Fireworks Spectacular",
-      "theme": "music",
-      "zone": "Boston",
-      "drive": "~30 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free &middot; Hatch Shell, Charles River Esplanade. The marquee holiday one, 52nd year and the official Mass 250 event: Keith Lockhart and the Pops with Lainey Wilson, Chance the Rapper, Trombone Shorty and Megan Hilty, hosted by Jane Lynch, plus a drone show and fireworks at 9:15pm. Huge crowds, arrive midday. (You'll likely be in Maine, but it's here if plans shift.) <a href=\"https://www.bso.org/boston-pops-fireworks-spectacular\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 4, pet parade 6pm, concert 7:30pm, fireworks 10:15pm",
-      "name": "Salisbury Beach July 4 Concert + Fireworks",
-      "theme": "music",
-      "zone": "North Shore",
-      "drive": "~50 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free &middot; Salisbury oceanfront. Scott Brown &amp; The Diplomats on the Oceanfront Stage at 7:30pm, fireworks over the water at 10:15pm, plus a pet parade 6-7pm on the Broadway Loop. Young Performers Club plays Sun Jul 5. Easy beach evening for all five. <a href=\"https://mysalisburybeach.com/event/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Fri Jul 3, parades 6pm, Gloucester fireworks 9:30pm",
-      "name": "Gloucester + Rockport July 3 Parades & Fireworks",
-      "theme": "festival",
-      "zone": "Cape Ann",
-      "drive": "~45 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free &middot; Cape Ann. Gloucester's Fishtown Horribles Parade at 6pm, then fireworks over the harbor at 9:30pm from Stage Fort Park. Nearby Rockport runs its Firemen's Parade at 6pm, Legion Band concert at 8pm, and a towering Back Beach bonfire at dusk (~9pm). Ocean + hometown-parade energy. <a href=\"https://www.bostoncentral.com/events/seasonalfun/p1838.php\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 4, evening",
-      "name": "Marblehead Harbor Illumination & Fireworks",
-      "theme": "festival",
-      "zone": "North Shore",
-      "drive": "~40 min",
-      "confidence": "med",
-      "last_verified": "2026-07-01",
-      "meta": "Free &middot; Marblehead. A beloved North Shore tradition: the harbor lit with flares while fireworks go up over one of the prettiest harbors in range. Confirm exact start time on the town site (verify). Park up top and walk down. <a href=\"https://northshorekid.com/story/independence-day-celebrations-north-shore\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Wed Jul 1, 7pm",
-      "name": "Prescott Park Arts Festival: The Dip",
-      "theme": "music",
-      "zone": "Maine / NH",
-      "drive": "~60 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "$20 suggested donation &middot; Portsmouth NH waterfront. Seattle soul-funk band The Dip on the Wilcox Main Stage tonight. Bring chairs and a picnic, pair with a Portsmouth dinner. More to come this month: Kashus Culpepper Jul 15, Patty Griffin Jul 20. <a href=\"https://www.prescottpark.org/events/category/music\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sun Jul 5, 11am-4pm",
-      "name": "SoWa Open Market",
-      "theme": "food",
-      "zone": "Boston",
-      "drive": "~30 min",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free entry &middot; South End, Boston. 100+ vendors, food trucks, vintage and makers in a walkable block. Stacey's city-day pick, easy to graze and bail. <a href=\"https://www.sowaboston.com/sowa-open-market/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Quarter-Final Thu Jul 9",
+      "when": "Thu Jul 9, kickoff 4pm",
       "name": "World Cup Quarter-Final at Gillette",
       "theme": "sports",
       "sport": "soccer",
       "zone": "Foxborough",
       "drive": "~50 min",
+      "confidence": "high",
+      "last_verified": "2026-07-05",
+      "meta": "Ticketed (steep) &middot; Gillette Stadium, Foxborough. Match 97, the last World Cup game in New England and one of only four quarter-finals in North America (teams set by the bracket). Tickets and parking are brutal, so the family play is a watch party or a bar with the game on for Dave &amp; Alex. Kickoff 4pm ET Thu Jul 9. <a href=\"https://www.gillettestadium.com/events/2026-world-cup-quarterfinal/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Tue Jul 7, 7-9pm",
+      "name": "North Shore Concert Band at Salem Willows",
+      "theme": "music",
+      "zone": "North Shore",
+      "drive": "~35 min",
+      "confidence": "high",
+      "last_verified": "2026-07-05",
+      "meta": "Free &middot; Salem Willows Park, Salem. Free \"Broadway Favorites\" concert on the oceanfront, 7-9pm, with the arcade, rides, and snack stands right there for the kids. Ocean plus live musical-theater tunes is a whole-family win. Go early for parking near the pavilion. <a href=\"https://northshoreconcertband.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Mon Jul 6, 7pm",
+      "name": "Infinity Song at Prescott Park",
+      "theme": "music",
+      "zone": "Maine / NH",
+      "drive": "~60 min",
       "confidence": "med",
-      "last_verified": "2026-07-01",
-      "meta": "Ticketed (steep) &middot; Gillette Stadium, Foxborough. Boston's biggest World Cup match, a quarter-final on Thu Jul 9 (teams set by the bracket). Tickets and parking are heavy, so the family play is a watch party or a bar with the game on for Dave &amp; Alex. Last Gillette match of the tournament. <a href=\"https://www.cbsnews.com/boston/news/world-cup-schedule-2026-boston-gillette-stadium-foxboro/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-07-05",
+      "meta": "Suggested donation (verify amount) &middot; Prescott Park, Portsmouth NH. Roc Nation soul/R&amp;B group Infinity Song on the Wilcox Main Stage, 7pm, right on the Piscataqua waterfront. Bring chairs and a picnic, pair with a Portsmouth dinner. <a href=\"https://www.prescottpark.org/events/category/music\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Fri Jul 10, 7pm (Thu Jul 9 ASL-supported)",
+      "name": "Cinderella at Prescott Park",
+      "theme": "family",
+      "zone": "Maine / NH",
+      "drive": "~60 min",
+      "confidence": "med",
+      "last_verified": "2026-07-05",
+      "meta": "Suggested donation (verify amount) &middot; Prescott Park, Portsmouth NH. The festival's big outdoor summer musical, Rodgers &amp; Hammerstein's Cinderella, under the stars on the waterfront. Made for KK and Isabella; blanket seating, come early for a good spot. Fri Jul 10 at 7pm (Thu Jul 9 is ASL-supported, plus Sun matinees). <a href=\"https://www.prescottpark.org/events/category/theatre\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Jul 11, 7:30pm",
+      "name": "Salisbury Beach Oceanfront Concert",
+      "theme": "music",
+      "zone": "North Shore",
+      "drive": "~50 min",
+      "confidence": "med",
+      "last_verified": "2026-07-05",
+      "meta": "Free &middot; Salisbury Beach Oceanfront Stage. The Partnership runs a free concert every Saturday at 7:30pm on the beachfront stage all summer, with fireworks on select Saturdays (~10:15pm). Check the calendar for this week's act and whether Jul 11 is a fireworks night (verify). Easy beach evening for all five. <a href=\"https://mysalisburybeach.com/event/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sun Jul 12, 11am-5pm",
+      "name": "SoWa Open Market",
+      "theme": "food",
+      "zone": "Boston",
+      "drive": "~30 min",
+      "confidence": "high",
+      "last_verified": "2026-07-05",
+      "meta": "Free entry &middot; 500 Harrison Ave, South End Boston. 175+ makers, ~20 food trucks, a vintage market and an outdoor beer garden with live music and lawn games on pedestrian-only Thayer St. Stacey's city-day pick, easy to graze and bail. <a href=\"https://www.sowaboston.com/sowa-open-market/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
-      "when": "Jul 17-19",
+      "when": "Wed Jul 22, 7:30pm",
+      "name": "Revolution vs Toronto FC",
+      "theme": "sports",
+      "sport": "soccer",
+      "zone": "Foxborough",
+      "drive": "~50 min",
+      "confidence": "high",
+      "last_verified": "2026-07-05",
+      "meta": "Ticketed &middot; Gillette Stadium, Foxborough. MLS restarts after the World Cup break and the Revs come home for back-to-back nights: Toronto FC Wed Jul 22, then Atlanta United Sat Jul 25, both 7:30pm. A more affordable live-soccer night for Dave &amp; Alex than the World Cup. <a href=\"https://www.gillettestadium.com/upcoming-events/revolution/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Wed Jul 22, 7pm",
+      "name": "Boston Landmarks Orchestra - Hatch Shell",
+      "theme": "music",
+      "zone": "Boston",
+      "drive": "~30 min",
+      "confidence": "high",
+      "last_verified": "2026-07-05",
+      "meta": "Free &middot; DCR Hatch Shell, Charles River Esplanade. The 25th-anniversary season of free orchestral concerts under the stars opens Wed Jul 22 with \"The Best of Boston,\" Christopher Wilkins conducting. Bring a blanket. Runs Wednesdays through Aug 12. <a href=\"https://www.landmarksorchestra.org/press-media/summer-2026-season/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Jul 17-19 (verify)",
       "name": "Yarmouth Clam Festival - Maine",
       "theme": "food",
       "zone": "Maine / NH",
       "drive": "~2 hr",
-      "confidence": "high",
-      "last_verified": "2026-07-01",
-      "meta": "Free entry &middot; Yarmouth ME. Classic Maine seafood weekend: fried clams, the big parade, live music, midway. Dave bait, worth the drive. <a href=\"https://www.clamfestival.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "confidence": "med",
+      "last_verified": "2026-07-05",
+      "meta": "Free entry &middot; Yarmouth ME. Classic Maine seafood weekend: fried clams, the big parade, live music, midway. Dave bait, worth the drive. Confirm the 2026 dates on the official site (verify). <a href=\"https://www.clamfestival.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
@@ -121,7 +111,7 @@
       "zone": "Maine / NH",
       "drive": "~2 hr",
       "confidence": "high",
-      "last_verified": "2026-07-01",
+      "last_verified": "2026-07-05",
       "meta": "Ticketed &middot; Portland ME waterfront. Summer shows worth booking ahead: Trampled by Turtles Jul 26, The Head and the Heart Aug 2, Guster Aug 8-9, Lake Street Dive Aug 15-16. Good one for KK if any land right. <a href=\"https://thompsonspoint.com/things-to-do/events-calendar/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
@@ -132,7 +122,7 @@
       "zone": "Maine / NH",
       "drive": "~2.5 hr",
       "confidence": "high",
-      "last_verified": "2026-07-01",
+      "last_verified": "2026-07-05",
       "meta": "Ticketed grounds &middot; Rockland ME. 79th year: lobster every way, the big parade, live music on the bay. A full-day-plus trip, but peak Maine summer. <a href=\"https://mainelobsterfestival.com/\" target=\"_blank\" rel=\"noopener\">source</a>"
     }
   ]
