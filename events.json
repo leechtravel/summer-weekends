@@ -1,107 +1,119 @@
 {
-  "weekLabel": "Week of Jul 9 - 16 &middot; refreshed Thu Jul 9. Tap a source to confirm before you go.",
-  "updated": "2026-07-09",
+  "weekLabel": "Week of Jul 12 - 19 &middot; refreshed Sun Jul 12. Tap a source to confirm before you go.",
+  "updated": "2026-07-12",
   "events": [
     {
       "tier": "headline",
-      "when": "Sat Jul 11 - Thu Jul 16",
-      "name": "Sail Boston 2026 — the tall ships return",
-      "theme": "festival",
-      "zone": "Boston",
-      "drive": "~25 min",
-      "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Free &middot; 50+ tall ships from 21 countries for the country's 250th. Parade of Sail Sat 9am-4pm (inner harbor ~10:15am, USS Constitution leads with a jet flyover; watch from Castle Island, the Seaport, East Boston, or Charlestown). Free ship boarding Sat 5-10pm, then Sun-Wed 10am-10pm. Harbor fireworks Sat AND Wed 9:15pm. Crew parade Mon noon-3. Huge crowds: take the T, go early. <a href=\"https://www.sailboston.com/events/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 11, 12-4pm",
-      "name": "Global Grooves: Rhythms of the Game",
-      "theme": "music",
-      "zone": "Close to home",
-      "drive": "~15 min",
-      "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Free &middot; Somerville City Hall &middot; World Cup-inspired outdoor fest: global live music, DJs, dance, soccer-ball juggling, food, kid activities. <a href=\"https://www.somervillema.gov/news/global-grooves-brings-world-cup-rhythms-somerville-city-hall-july-11\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 11, concert 7:30pm &middot; fireworks 10:15pm",
-      "name": "Salisbury Beach Concert + Fireworks Night",
-      "theme": "music",
-      "zone": "North Shore",
-      "drive": "~50 min",
-      "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Free &middot; Oceanfront stage concert, then fireworks over the water at 10:15. Beach + free music + fireworks for all five. Arrive before 7 for parking. <a href=\"https://business.newburyportchamber.org/events/details/salisbury-beach-fireworks-show-07-11-2026-167099?memberSlug=salisbury-beach-partnership-inc\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Fri-Sun (verify showtimes)",
-      "name": "Cinderella at Prescott Park",
-      "theme": "family",
-      "zone": "Maine / NH",
-      "drive": "~60 min",
-      "confidence": "med",
-      "last_verified": "2026-07-09",
-      "meta": "Suggested donation &middot; Portsmouth NH &middot; The outdoor waterfront musical continues; blanket seating under the stars. Confirm this week's showtimes (verify). <a href=\"https://www.prescottpark.org/events/category/theatre\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Fri Jul 10 - Sun Jul 12",
-      "name": "Boston JerkFest",
-      "theme": "food",
-      "zone": "Boston",
-      "drive": "~25 min",
-      "confidence": "med",
-      "last_verified": "2026-07-09",
-      "meta": "Ticketed (verify price) &middot; Harvard Athletic Complex, Allston &middot; Caribbean food fest: jerk everything, island music, family-friendly grounds. <a href=\"https://www.meetboston.com/blog/post/this-weekend/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Tue Jul 14, 7-9pm",
-      "name": "Pops Goes the Willows — Salem Willows",
-      "theme": "music",
-      "zone": "North Shore",
-      "drive": "~35 min",
-      "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Free &middot; North Shore Concert Band plays a Boston Pops-style night at the oceanfront bandshell; arcade + snack stands right there. <a href=\"https://northshoreconcertband.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Tue Jul 14 + Wed Jul 15 (check kickoff times)",
-      "name": "World Cup Semifinals — watch party",
+      "when": "Sun Jul 19, 2-7pm (kickoff 3pm)",
+      "name": "World Cup Final Watch Party — Somerville",
       "theme": "sports",
       "sport": "soccer",
       "zone": "Close to home",
-      "drive": "~0 min",
-      "confidence": "med",
-      "last_verified": "2026-07-09",
-      "meta": "Free-cheap &middot; The tournament's best two nights; pick a bar or backyard for Dave &amp; Alex. Final is Sun Jul 19, 3pm. Kickoff times on FOX (verify). <a href=\"https://www.foxsports.com/soccer/fifa-world-cup/schedule\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "drive": "~15 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free, tickets required &middot; Union Square Plaza + Capuano Field at Glen Park &middot; Huge outdoor LED screen, food vendors, DJs, kid activities. The Final from MetLife at 3pm, with a Shakira/Madonna/BTS halftime. Free but capacity-controlled, so RESERVE NOW. <a href=\"https://www.somervillema.gov/worldcup\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
-      "tier": "ahead",
+      "tier": "weekend",
       "when": "Fri Jul 17 - Sun Jul 19",
-      "name": "Yarmouth Clam Festival — Maine",
+      "name": "Yarmouth Clam Festival",
       "theme": "food",
       "zone": "Maine / NH",
       "drive": "~2 hr",
       "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Free entry &middot; NEXT weekend: fried clams, the big parade, carnival, live music, all nonprofit-run. Classic Maine day trip. <a href=\"https://www.clamfestival.com/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-07-12",
+      "meta": "Free entry &middot; Yarmouth ME &middot; Fried clams, 3 music stages, 130+ craft booths, carnival rides. Parade Fri 6pm (streets close 5:30), fireworks Sat night. Big crowds, tight parking: go early and park at the edge of the village. <a href=\"https://www.clamfestival.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Jul 18, 12-9pm",
+      "name": "ArtBeat 2026: REVolution — Davis Square",
+      "theme": "festival",
+      "zone": "Close to home",
+      "drive": "~15 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; Somerville &middot; 40th year. Davis Square closes to traffic: 70+ craft vendors, food, two stages of music, dance and theater. Closest big festival to home. Rain date Sun Jul 19. <a href=\"https://www.somervillema.gov/news/somerville-artbeat-festival-fill-davis-square-crafts-food-performance-july-18\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Jul 18, concert 7:30pm &middot; fireworks ~10:15pm",
+      "name": "Salisbury Beach Concert + Fireworks",
+      "theme": "music",
+      "zone": "North Shore",
+      "drive": "~50 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; Oceanfront stage concert, then fireworks over the water. Beach + free music + fireworks for all five. Arrive before 7 for parking. <a href=\"https://mysalisburybeach.com/event/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sun Jul 12 - Wed Jul 15, 10am-10pm",
+      "name": "Sail Boston — last three days of the tall ships",
+      "theme": "festival",
+      "zone": "Boston",
+      "drive": "~25 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; Free ship boarding through Wed at the Seaport, Fish Pier and Charlestown Navy Yard (Fish Pier opens noon Sun, 2pm Mon-Wed). Festival at 302 Northern Ave: live entertainment, concessions, Ferris wheel. Ships depart Thu morning. Take the T. <a href=\"https://www.sailboston.com/events/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Wed Jul 15, band 6:30pm &middot; fireworks 9:15pm",
+      "name": "Sail Boston finale — Marine Band + harbor fireworks",
+      "theme": "music",
+      "zone": "Boston",
+      "drive": "~30 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; 2nd Marine Division Band at the DCR Hatch Shell 6:30-8:30, then fireworks off Fan Pier at 9:15 over the tall ships. The closing night, and the last look at the fleet. <a href=\"https://www.sailboston.com/events/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Tue Jul 14, first kickoff 10am",
+      "name": "Sail Boston Cup — crew soccer tournament",
+      "theme": "sports",
+      "sport": "soccer",
+      "zone": "Boston",
+      "drive": "~25 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; LoPresti Park, East Boston &middot; 5v5 tournament between tall-ship crews and cadets from multiple countries, in honor of the World Cup. Free, outdoors, on the water. Easy weekday morning for Alex. <a href=\"https://www.sailboston.com/events/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Thu Jul 16 + Fri Jul 17, 7-9pm",
+      "name": "Cinderella at Prescott Park",
+      "theme": "family",
+      "zone": "Maine / NH",
+      "drive": "~60 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Free, $8 suggested donation &middot; Portsmouth NH &middot; The outdoor waterfront musical, blanket seating under the stars. Made for KK and Isabella; Portsmouth dinner is steps away. Among the last July dates. <a href=\"https://www.prescottpark.org/event/cinderella-6\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Jul 18, 5:30pm",
+      "name": "Blackburn Brew Fest (21+)",
+      "theme": "food",
+      "zone": "Cape Ann",
+      "drive": "~50 min",
+      "confidence": "high",
+      "last_verified": "2026-07-12",
+      "meta": "Ticketed &middot; 21+ ONLY, ID required &middot; Stage Fort Park, Gloucester &middot; 20+ breweries, live music, food trucks, lawn games, right on the ocean. Rain or shine, capped at 2,000 tickets. A Dave-and-Stacey night, not a family one. <a href=\"https://www.blackburnbrewfest.com/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
-      "when": "Wed Jul 22, 7:30pm",
+      "when": "Wed Jul 22, 7:30pm (also Sat Jul 25)",
       "name": "Revolution vs Toronto FC",
       "theme": "sports",
       "sport": "soccer",
       "zone": "Foxborough",
       "drive": "~50 min",
       "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Ticketed &middot; MLS restarts after the World Cup; Revs also host Atlanta Jul 25. The affordable live-soccer play for Dave &amp; Alex. <a href=\"https://www.gillettestadium.com/upcoming-events/revolution/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-07-12",
+      "meta": "Ticketed, from ~$30/match &middot; MLS restarts right after the Final; Revs host Atlanta Jul 25 too. The affordable live-soccer follow-up for Dave &amp; Alex. <a href=\"https://www.gillettestadium.com/upcoming-events/revolution/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
@@ -111,19 +123,30 @@
       "zone": "Boston",
       "drive": "~30 min",
       "confidence": "high",
-      "last_verified": "2026-07-09",
-      "meta": "Free &middot; 25th-anniversary season of free orchestra nights on the Esplanade opens with \"The Best of Boston\"; Wednesdays through Aug 12. <a href=\"https://www.landmarksorchestra.org/press-media/summer-2026-season/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; Esplanade &middot; 25th-anniversary season of free orchestra nights on the river opens. Wednesdays through Aug 12. Bring blankets. <a href=\"https://esplanade.org/concerts/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
-      "when": "Sat Jul 25 - Sun Aug 2 (verify schedule)",
+      "when": "Sun Jul 26, 6-8pm",
+      "name": "Lynch Park Summer Concert — North Shore Roots Band",
+      "theme": "music",
+      "zone": "North Shore",
+      "drive": "~35 min",
+      "confidence": "med",
+      "last_verified": "2026-07-12",
+      "meta": "Free &middot; Beverly &middot; Free concert in the shell at the family's favorite oceanfront park. Chairs and blankets. Confirm act and time on the Rec Dept page (verify). <a href=\"https://www.bevrec.com/classesevents\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Sat Jul 25 - Sun Aug 2",
       "name": "Yankee Homecoming — Newburyport",
       "theme": "festival",
       "zone": "North Shore",
       "drive": "~45 min",
       "confidence": "med",
-      "last_verified": "2026-07-09",
-      "meta": "Mostly free &middot; Nine days of waterfront concerts, craft fair, road race, and fireworks in a favorite walkable town. Schedule firming up (verify). <a href=\"https://www.nshoremag.com/events/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-07-12",
+      "meta": "Mostly free &middot; Nine days of waterfront concerts, craft fair, road race and fireworks in a favorite walkable town. Schedule still firming up (verify). <a href=\"https://www.nshoremag.com/events-calendar/list/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
@@ -133,7 +156,7 @@
       "zone": "Maine / NH",
       "drive": "~2.5 hr",
       "confidence": "high",
-      "last_verified": "2026-07-09",
+      "last_verified": "2026-07-12",
       "meta": "Ticketed grounds &middot; 79th year: lobster every way, the parade, live music on the bay. Full-day-plus trip. <a href=\"https://mainelobsterfestival.com/\" target=\"_blank\" rel=\"noopener\">source</a>"
     }
   ]
