@@ -1,151 +1,16 @@
 {
-  "weekLabel": "Maine edition &middot; Thu Jul 16 - Sun Jul 19 &middot; refreshed Thu Jul 16 &middot; drive times on Maine picks are from Kennebunkport. Tap a source to confirm before you go.",
-  "updated": "2026-07-16",
+  "weekLabel": "Week of Jul 20-26 · refreshed Sun Jul 19. Tap a source to confirm before you go.",
+  "updated": "2026-07-19",
   "events": [
-    {
-      "tier": "headline",
-      "when": "Sun Jul 19, kickoff 3pm",
-      "name": "World Cup Final — watch it from Kennebunkport",
-      "theme": "sports",
-      "sport": "soccer",
-      "zone": "Maine / NH",
-      "drive": "~5 min",
-      "confidence": "med",
-      "last_verified": "2026-07-16",
-      "meta": "Free to watch &middot; The Final from MetLife at 3pm. In Maine: Federal Jack's, 8 Western Ave, Kennebunk — waterfront brewpub 5 min away, call 207-967-4322 to confirm they'll show it — or Portland's Old Port pubs (R&iacute; R&aacute;, 72 Commercial St). Back home instead? Somerville's free watch party runs 2:30-7pm at Union Square Plaza — registration required, weather-contingent. <a href=\"https://www.somervillema.gov/events/2026/07/19/world-cup-watch-party\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Fri Jul 17 - Sun Jul 19",
-      "name": "Yarmouth Clam Festival",
-      "theme": "food",
-      "zone": "Maine / NH",
-      "drive": "~50 min",
-      "confidence": "med",
-      "last_verified": "2026-07-16",
-      "meta": "Free entry &middot; Main St, Yarmouth ME &middot; Fried clams, 3 music stages, 130+ craft booths, carnival rides. Parade Fri evening, fireworks Sat night (verify times on the schedule). Southern Maine's biggest street festival and only ~50 min up 95 from you. Go early, park at the edge of the village. <a href=\"https://www.clamfestival.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Thu-Sun, 7pm (Sat Jul 18 is the ASL night)",
-      "name": "Cinderella at Prescott Park",
-      "theme": "family",
-      "zone": "Maine / NH",
-      "drive": "~30 min",
-      "confidence": "med",
-      "last_verified": "2026-07-16",
-      "meta": "Suggested gate donation &middot; 105 Marcy St, Portsmouth NH &middot; The outdoor waterfront musical, blanket seating under the stars — made for KK and Isabella, and only 30 min down the coast from Kennebunkport. Runs Thu-Sun through Aug 9; confirm tonight's show on the site (verify). <a href=\"https://www.prescottpark.org/event/cinderella-6\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Through Sat Jul 18",
-      "name": "Hello, Dolly! — Ogunquit Playhouse closing weekend",
-      "theme": "family",
-      "zone": "Maine / NH",
-      "drive": "~20 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Ticketed &middot; 10 Main St, Ogunquit ME &middot; Broadway-caliber musical in its final days — the kind of show KK lives for, 20 min from the house. Box office 207-646-5511 for remaining seats. <a href=\"https://www.ogunquitplayhouse.org/shows/whats-on/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Fri Jul 17, 6-8pm",
-      "name": "Free live music at Perkins Cove",
-      "theme": "music",
-      "zone": "Maine / NH",
-      "drive": "~25 min",
-      "confidence": "med",
-      "last_verified": "2026-07-16",
-      "meta": "Free &middot; Rotary Park, Perkins Cove, Ogunquit ME &middot; Free music on the water in the lobster-shack cove — easy pre- or post-dinner stop for all five. Act TBA (verify). <a href=\"https://www.perkinscove03907.com/events-music\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 18, 7am-1pm",
-      "name": "Portland Farmers' Market + Old Port morning",
-      "theme": "food",
-      "zone": "Maine / NH",
-      "drive": "~40 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Free to browse &middot; Deering Oaks Park, Portland ME &middot; Saturday market, then wander the Old Port for lobster rolls and chowder. Easy morning before an afternoon beach. <a href=\"https://www.portlandmainefarmersmarket.org/markets\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 18, 12-9pm",
-      "name": "ArtBeat 2026: REVolution — Davis Square",
-      "theme": "festival",
-      "zone": "Close to home",
-      "drive": "~15 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Free &middot; Somerville &middot; 40th year, ~100 craft and food vendors, two music stages, dance and street performance. Street fest noon-7, music at Seven Hills Park to 9. Rain date Sun Jul 19. For anyone back home this weekend. <a href=\"https://somervilleartscouncil.org/events/artbeat-2026-revolution-draft-3/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Jul 18, concert 7:30pm &middot; fireworks 10:15pm",
-      "name": "Salisbury Beach Concert + Fireworks",
-      "theme": "music",
-      "zone": "North Shore",
-      "drive": "~50 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Free &middot; Oceanfront stage &middot; Something Else plays 7:30-10, fireworks over the water 10:15. Also ~45 min from Kennebunkport — a natural stop if you drive home Saturday night. Arrive before 7 for parking. <a href=\"https://mysalisburybeach.com/events/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Wed Jul 22, 7:30pm (Atlanta Sat Jul 25, 7:30pm)",
-      "name": "Revolution vs Toronto FC",
-      "theme": "sports",
-      "sport": "soccer",
-      "zone": "Foxborough",
-      "drive": "~50 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Ticketed, from ~$30 &middot; Gillette Stadium &middot; MLS restarts right after the Final; Revs host Toronto Wed and Atlanta United Sat. The affordable live-soccer follow-up for Dave &amp; Alex. <a href=\"https://www.gillettestadium.com/events/2026-new-england-revolution-vs-toronto-fc/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Wed Jul 22, 7pm",
-      "name": "Boston Landmarks Orchestra — Hatch Shell opener",
-      "theme": "music",
-      "zone": "Boston",
-      "drive": "~30 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Free &middot; Esplanade &middot; Season opener \"Best of Boston\": Bernstein's West Side Story dances plus a gospel ensemble and Brazilian drumming. Free orchestra Wednesdays on the river through Aug 12. Blankets. <a href=\"https://www.landmarksorchestra.org/press-media/summer-2026-season/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Sun Jul 26, 6-8pm",
-      "name": "Lynch Park Summer Concert",
-      "theme": "music",
-      "zone": "North Shore",
-      "drive": "~35 min",
-      "confidence": "low",
-      "last_verified": "2026-07-16",
-      "meta": "Free &middot; Beverly &middot; Free concert in the shell at the family's favorite oceanfront park. Act for Jul 26 not yet confirmed — check the Rec Dept page before going (verify). <a href=\"https://www.bevrec.com/classesevents\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Sat Jul 25 - Sun Aug 2",
-      "name": "Yankee Homecoming — Newburyport",
-      "theme": "festival",
-      "zone": "North Shore",
-      "drive": "~45 min",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Mostly free &middot; Nine days of waterfront concerts, craft fair, road race and fireworks in a favorite walkable town. Kickoff party + brewfest Sat Jul 25, 5-9pm at Cashman Park (21+ $35 adv, under-21 $5); Lions road race Tue Jul 28. <a href=\"https://newburyport.com/yankee-homecoming/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Wed Jul 29 - Sun Aug 2",
-      "name": "Maine Lobster Festival — Rockland",
-      "theme": "food",
-      "zone": "Maine / NH",
-      "drive": "~2.5 hr",
-      "confidence": "high",
-      "last_verified": "2026-07-16",
-      "meta": "Ticketed grounds &middot; 79th year: lobster every way, the Great Crate Race, the parade, live music on the bay. Wed noon-10pm, Thu-Sat 8:30am-11:30pm, Sun to 6:30pm. Full-day-plus trip. <a href=\"https://mainelobsterfestival.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    }
+    {"tier": "headline", "when": "Fri Jul 24 - Sun Jul 26", "name": "Lowell Folk Festival", "theme": "festival", "zone": "Close to home", "drive": "~30 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Free &middot; Downtown Lowell (JFK Plaza + Boarding House Park) &middot; One of the country's biggest free folk festivals: 60+ performances of world music and dance, food from every direction. Parade of Flags Fri 6:15pm; Sat noon-10pm; Sun noon-6pm. Go early Saturday, park in a garage and walk. <a href=\"https://lowellfolkfestival.org/pages/event-schedule\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "weekend", "when": "Sat Jul 25, concert 7:30pm &middot; fireworks 10:15pm", "name": "Salisbury Beach: Beatlejuice + Fireworks", "theme": "music", "zone": "North Shore", "drive": "~50 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Free &middot; Oceanfront Stage, 1 Ocean Front North, Salisbury &middot; Beatlejuice plays 7:30, fireworks over the water 10:15. Last July fireworks date &mdash; next isn't until Aug 8. Arrive before 7 for parking. <a href=\"https://mysalisburybeach.com/event/\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "weekend", "when": "Sat Jul 25 - Sun Aug 2", "name": "Yankee Homecoming — Newburyport", "theme": "festival", "zone": "North Shore", "drive": "~45 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Mostly free &middot; Nine days kick off Sat: brewfest 5-9pm at Cashman Park (21+ $35 adv, under-21 $5), waterfront concerts nightly from Sun, craft fair, road race Tue Jul 28, fireworks finale. A favorite walkable town at its best. <a href=\"https://newburyport.com/yankee-homecoming/\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "weekend", "when": "Sat Jul 25, 7:30pm", "name": "Revolution vs Atlanta United", "theme": "sports", "sport": "soccer", "zone": "Foxborough", "drive": "~50 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Ticketed, from ~$30 &middot; Gillette Stadium &middot; Post-World Cup soccer fix for Dave &amp; Alex; also Toronto FC Wed Jul 22, 7:30pm (Pride night). Family-friendly Fan Zone before kickoff. <a href=\"https://www.gillettestadium.com/upcoming-events/revolution/\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "weekend", "when": "Sun Jul 26, 6-8pm", "name": "Lynch Park Summer Concert", "theme": "music", "zone": "North Shore", "drive": "~30 min", "confidence": "low", "last_verified": "2026-07-19", "meta": "Free, parking $25 weekend &middot; 55 Ober St, Beverly &middot; Sunday-evening concert in the shell at the family's favorite oceanfront park; bring chairs and a picnic. Act for Jul 26 unconfirmed &mdash; check bevrec.com before going (verify). <a href=\"https://www.bevrec.com/classesevents\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "weekend", "when": "Thu-Sun 7pm &middot; Sat Jul 25 also 1pm matinee", "name": "Cinderella at Prescott Park", "theme": "family", "zone": "Maine / NH", "drive": "~55 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Suggested gate donation &middot; 105 Marcy St, Portsmouth NH &middot; Outdoor waterfront musical, blanket seating; Sat Jul 25 adds a 1pm ASL matinee. Runs through Aug 9 &mdash; KK and Isabella's show. <a href=\"https://www.prescottpark.org/event/cinderella\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "weekend", "when": "Sun Jul 26, 10am-4pm", "name": "SoWa Open Market", "theme": "food", "zone": "Boston", "drive": "~25 min", "confidence": "med", "last_verified": "2026-07-19", "meta": "Free entry &middot; 500 Harrison Ave, Boston &middot; 100+ makers, food trucks, farmers market, vintage &mdash; a natural Stacey city day with a South End walk. Confirm Sunday vendor lineup (verify). <a href=\"https://www.sowaboston.com/\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "ahead", "when": "Wed Jul 22, 7pm", "name": "Boston Landmarks Orchestra — season opener", "theme": "music", "zone": "Boston", "drive": "~30 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Free &middot; DCR Hatch Shell, Esplanade &middot; 25th-anniversary opener \"Best of Boston.\" Blankets, picnic, chairs rentable; free Wednesdays through Aug 12. Rain date Thursday. <a href=\"https://www.landmarksorchestra.org/events/2026-season/\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "ahead", "when": "Wed Jul 29 - Sun Aug 2", "name": "Maine Lobster Festival — Rockland", "theme": "food", "zone": "Maine / NH", "drive": "~2.5 hr", "confidence": "high", "last_verified": "2026-07-19", "meta": "Ticketed grounds &middot; 79th year: lobster every way, the Great Crate Race, the parade, live music on the bay. Full-day-plus trip. <a href=\"https://mainelobsterfestival.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"},
+    {"tier": "ahead", "when": "Aug 4-8 (400th-anniversary edition)", "name": "Beverly Homecoming + LobsterFest at Lynch Park", "theme": "festival", "zone": "North Shore", "drive": "~30 min", "confidence": "high", "last_verified": "2026-07-19", "meta": "Mostly free &middot; Beverly &middot; Expanded citywide celebration for Beverly's 400th: live music, movies, road race, fireworks. LobsterFest under the tent at Lynch Park Wed Aug 5 &mdash; the family-favorite park, so grab tickets early. <a href=\"https://www.beverlyhomecoming.org/\" target=\"_blank\" rel=\"noopener\">source</a>"}
   ]
 }
