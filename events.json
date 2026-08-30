@@ -1,16 +1,142 @@
 {
-  "weekLabel": "Week of Aug 20 to Aug 27 · refreshed Thursday Aug 20. Tap a source to confirm before you go.",
-  "updated": "2026-08-20",
+  "weekLabel": "Week of Aug 31 to Sep 6 · refreshed Sunday Aug 30. Labor Day weekend. Tap a source to confirm before you go.",
+  "updated": "2026-08-30",
   "events": [
-    {"tier": "headline", "when": "Sat Aug 22, 12pm-6pm (fireworks 10:15pm)", "name": "Riverfest at Salisbury Beach", "theme": "music", "zone": "North Shore", "drive": "~45 min", "confidence": "high", "last_verified": "2026-08-20", "meta": "Free &middot; Broadway Boardwalk, Salisbury Beach &middot; 24th annual, run by 92.5 The River. Spin Doctors headline at 4:30, Buffalo Tom at 3:00, Fantastic Cat and Gavin Marengi earlier. Free live music on the sand all afternoon, then fireworks over the water at 10:15. Special event parking runs $40 until 6pm, so go early or park off the boardwalk and walk in. <a href=\"https://newburyport.com/riverfront-music-festival/\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "weekend", "when": "Fri Aug 21 4pm, Sat Aug 22 12pm, Sun Aug 23", "name": "San Gennaro Feast", "theme": "festival", "zone": "Boston", "drive": "~25 min", "confidence": "med", "last_verified": "2026-08-20", "meta": "Free entry &middot; North End, Boston (confirm exact block on the official site) &middot; Classic North End street feast: food vendors, live entertainment and processions across the weekend. Take the Orange Line to Haymarket, North End parking is a losing game. <a href=\"https://sangennaroboston.org/\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "weekend", "when": "Sat Aug 22, 7pm", "name": "Patriots preseason vs Eagles", "theme": "sports", "sport": "football", "zone": "Foxborough", "drive": "~50 min", "confidence": "high", "last_verified": "2026-08-20", "meta": "Ticketed &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; Final home preseason game before the season opens. One for Dave and Alex. <a href=\"https://www.patriots.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "weekend", "when": "Sun Aug 23, 4:30pm", "name": "Revolution vs New York City FC", "theme": "sports", "sport": "soccer", "zone": "Foxborough", "drive": "~50 min", "confidence": "high", "last_verified": "2026-08-20", "meta": "Ticketed, parking is free &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; Lots open 2:30, gates 3:30. Cheaper and easier than the NFL, and Patriot Place gives you somewhere to eat before kickoff. <a href=\"https://www.gillettestadium.com/events/2026-new-england-revolution-vs-new-york-city-fc/\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "weekend", "when": "Sat Aug 22, 12pm-6pm", "name": "43rd Annual Seacoast Jazz Festival", "theme": "music", "zone": "Maine / NH", "drive": "~55 min", "confidence": "high", "last_verified": "2026-08-20", "meta": "Free, $20 suggested donation &middot; Prescott Park, 105 Marcy St, Portsmouth NH &middot; All-afternoon waterfront jazz on the Wilcox Main Stage: Yoko Miwa Trio, Soggy Po' Boys, Salsa Secrets and the Seacoast Big Band. Rain date Sun Aug 23. Pair it with a walk through Portsmouth and food on the water. <a href=\"https://www.prescottpark.org/events/category/music\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "weekend", "when": "Sun Aug 23, 11am-5pm", "name": "SoWa Open Market", "theme": "food", "zone": "Boston", "drive": "~25 min", "confidence": "high", "last_verified": "2026-08-20", "meta": "Free entry &middot; 500 Harrison Ave, Boston &middot; The standing city Sunday: 100+ makers, farmers market, food trucks, vintage. Easy to walk to a coffee or juice stop first. <a href=\"https://www.sowaboston.com/sowa-open-market/\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "ahead", "when": "Thu Aug 27 - Sun Aug 30", "name": "St. Anthony's Feast", "theme": "festival", "zone": "Boston", "drive": "~25 min", "confidence": "high", "last_verified": "2026-08-20", "meta": "Free &middot; Endicott, Thatcher and North Margin Streets, North End &middot; 107th year and the biggest Italian feast in New England. The 10-hour Grand Procession runs Sunday Aug 30 from 11:30am on Endicott St. No tickets exist, anyone selling them is a scam. <a href=\"https://www.stanthonysfeast.com/schedule.html\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "ahead", "when": "Sat Aug 29, 1pm-7pm (J'ouvert from 4am, parade midday)", "name": "Boston Caribbean Carnival", "theme": "festival", "zone": "Boston", "drive": "~25 min", "confidence": "med", "last_verified": "2026-08-20", "meta": "Free to watch &middot; Grand Parade from Roxbury through Dorchester to Franklin Park, festival at Playstead Park &middot; One of the Northeast's biggest Caribbean celebrations: feathered mas bands, soca and steel pan. Big crowds, go early and plan the T. <a href=\"https://exploreboston.com/events/boston-caribbean-carnival-carnival-day-2/\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "ahead", "when": "Fri Aug 28, 7pm", "name": "Langhorne Slim at Prescott Park", "theme": "music", "zone": "Maine / NH", "drive": "~55 min", "confidence": "med", "last_verified": "2026-08-20", "meta": "$20 suggested donation &middot; Prescott Park, 105 Marcy St, Portsmouth NH &middot; Waterfront outdoor show, blankets on the grass. Reserve a table ahead if you want a real patch of lawn. <a href=\"https://www.prescottpark.org/events/category/music\" target=\"_blank\" rel=\"noopener\">source</a>"},
-    {"tier": "ahead", "when": "Fri Oct 2 - Mon Oct 12", "name": "Topsfield Fair", "theme": "family", "zone": "North Shore", "drive": "~30 min", "confidence": "med", "last_verified": "2026-08-20", "meta": "Ticketed (price verify) &middot; 207 Boston St, Topsfield &middot; America's oldest county fair, 30 minutes away. Buy online ahead and go on a weekday if you can. <a href=\"https://www.topsfieldfair.org/\" target=\"_blank\" rel=\"noopener\">source</a>"}
+    {
+      "tier": "headline",
+      "when": "Thu Sep 3 - Sun Sep 6 (fireworks Sat evening, Parade of Sail Sun 10am)",
+      "name": "Gloucester Schooner Festival (42nd annual)",
+      "theme": "festival",
+      "zone": "Cape Ann",
+      "drive": "~45 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Free from shore &middot; Gloucester Harbor, Gloucester &middot; Tall ships fill the harbor for the best maritime weekend on the North Shore. Fireworks over the water Saturday evening (fireworks sails leave around 8:00-8:15pm, so confirm the exact show time in the program). Parade of Sail Sunday 10am, Mayor's Cup Races Sunday 1pm. Stacy Boulevard for the parade, Stage Fort Park for the fireworks. Big crowds and tight parking, so get to Stage Fort early with chairs. <a href=\"https://www.maritimegloucester.org/schooner-festival\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Sep 5, 2pm-8pm (rain date Sun Sep 6)",
+      "name": "Somerville Nepali Street Food Festival",
+      "theme": "food",
+      "zone": "Close to home",
+      "drive": "~15 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Free &middot; Somerville City Hall, 93 Highland Ave, Somerville &middot; Eleven Nepali food vendors, live cultural music and dance, and a DJ in from Nepal. Closest thing on the list and the easiest yes of the weekend: park once, eat everything. <a href=\"https://www.somervillema.gov/events/2026/09/05/somerville-nepali-street-food-festival\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sun Sep 6, 10am-6pm",
+      "name": "Open Newbury Street",
+      "theme": "festival",
+      "zone": "Boston",
+      "drive": "~25 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Free &middot; Newbury St, Berkeley to Mass Ave, Back Bay, Boston &middot; Newbury goes car-free and pedestrian-only for the day. Cafes spill into the street, easy walking, good morning coffee-and-pastry stop first. Take the T; Back Bay parking on a car-free Sunday is a losing game. <a href=\"https://www.boston.gov/departments/transportation/open-newbury-street\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Sep 5 (set time verify)",
+      "name": "Tom Rush at Prescott Park Arts Festival",
+      "theme": "music",
+      "zone": "Maine / NH",
+      "drive": "~55 min",
+      "confidence": "med",
+      "last_verified": "2026-08-30",
+      "meta": "Suggested donation around $20, nobody turned away (verify) &middot; Prescott Park, 105 Marcy St, Portsmouth NH &middot; Waterfront outdoor show on the lawn. Blankets and chairs, harbor right there, walkable Portsmouth for dinner after. Confirm set time and whether lawn tables need reserving. <a href=\"https://www.prescottpark.org/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Sep 5 - Mon Sep 7, daytime (verify 2026 hours)",
+      "name": "Newburyport Labor Day Festival",
+      "theme": "festival",
+      "zone": "North Shore",
+      "drive": "~45 min",
+      "confidence": "med",
+      "last_verified": "2026-08-30",
+      "meta": "Free performances &middot; Downtown Newburyport and the waterfront &middot; Three days of free band concerts, buskers, magicians, jugglers, craft vendors and a dog parade. Several listings still carry old years, so verify the 2026 dates and daily times on the city calendar before driving up. <a href=\"https://www.cityofnewburyport.com/calendar-by-event-type/1493+1503+1513\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Labor Day weekend, beach open early; Great House tours on the hour",
+      "name": "Crane Beach and Castle Hill, Ipswich",
+      "theme": "outdoors",
+      "zone": "North Shore",
+      "drive": "~45 min",
+      "confidence": "med",
+      "last_verified": "2026-08-30",
+      "meta": "Beach parking fee; Great House tours ticketed (price verify) &middot; 290 Argilla Rd, Ipswich &middot; Last real beach weekend of the season. The Great House at Castle Hill is open for holiday tours, plus a sunset hike out toward Steep Hill Beach and Cedar Point. Crane fills by mid-morning on a holiday weekend, so be in the lot before 9. <a href=\"https://thetrustees.org/place/crane-beach-on-the-crane-estate/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Sep 5 (kickoff time verify)",
+      "name": "College football is back: BC opens at Cincinnati",
+      "theme": "sports",
+      "sport": "football",
+      "zone": "Close to home",
+      "drive": "~0 min",
+      "confidence": "med",
+      "last_verified": "2026-08-30",
+      "meta": "Free at home, or the price of lunch out &middot; On TV; Coastal Mass Brewing, 100 Cummings Center, Beverly if you want a room for it &middot; No pro home game locally this week, so this is the Dave-and-Alex play: BC's season opener on the road, watched somewhere with food and a big screen. Coastal Mass in Beverly is open Sat 12-10pm and is the family-friendly version. Confirm kickoff time and network. <a href=\"https://bceagles.com/sports/football/schedule\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Fri Sep 11, 7:30pm",
+      "name": "Boston College vs Rutgers (Red Bandanna Game)",
+      "theme": "sports",
+      "sport": "football",
+      "zone": "Boston",
+      "drive": "~30 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Ticketed &middot; Alumni Stadium, 2599 Beacon St, Chestnut Hill &middot; BC's home opener on the 25th anniversary of 9/11, honoring Welles Crowther. Night game, real atmosphere, and the best value college football ticket near Boston. Single-game seats are on sale now and this one will move. <a href=\"https://bceagles.com/game-center/26779\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Fri Sep 11 6-11pm, Sat Sep 12 1-11pm, Sun Sep 13 1-10pm",
+      "name": "101st Feast of Saints Cosmas and Damian",
+      "theme": "festival",
+      "zone": "Close to home",
+      "drive": "~20 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Free &middot; 17 Porter St, East Cambridge &middot; Candlelight procession and fireworks Friday, Taylor Dayne headlining Saturday, and the Grand Procession Sunday at 1:30pm through East Cambridge and Somerville. Carnival rides, games, Italian food. <a href=\"https://www.cosmas-and-damian.org/schedule\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Sun Sep 13, 11am-6pm",
+      "name": "32nd Cambridge Carnival International",
+      "theme": "festival",
+      "zone": "Boston",
+      "drive": "~20 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Free &middot; University Park Commons, Cambridge &middot; Around 100,000 people, costumes, steel pan, soca, dance and food and craft vendors. One of the best free days of the year for KK and Isabella. Red Line to Central, do not drive. <a href=\"https://www.cambridgecarnival.org/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Sat Sep 19, 7:30pm",
+      "name": "Revolution vs Orlando City",
+      "theme": "sports",
+      "sport": "soccer",
+      "zone": "Foxborough",
+      "drive": "~50 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Ticketed, parking free &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; The only Revs home match in September. Cheaper and easier than the NFL, and Patriot Place handles dinner before kickoff. <a href=\"https://www.revolutionsoccer.net/schedule/matches\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Sun Sep 20, 1:00pm",
+      "name": "Patriots home opener vs Steelers",
+      "theme": "sports",
+      "sport": "football",
+      "zone": "Foxborough",
+      "drive": "~50 min",
+      "confidence": "high",
+      "last_verified": "2026-08-30",
+      "meta": "Ticketed &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; First home game of the season. If this is the year to take Alex to a Patriots game, buy soon; Week 2 home openers do not get cheaper. <a href=\"https://www.patriots.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    }
   ]
 }
