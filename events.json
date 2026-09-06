@@ -1,87 +1,75 @@
 {
-  "weekLabel": "Week of Aug 31 to Sep 6 · refreshed Sunday Aug 30. Labor Day weekend. Tap a source to confirm before you go.",
-  "updated": "2026-08-30",
+  "weekLabel": "Week of Sep 6 to Sep 13 · refreshed Sunday Sep 6. Big weekend is Fri 11 to Sun 13. Tap a source to confirm before you go.",
+  "updated": "2026-09-06",
   "events": [
     {
       "tier": "headline",
-      "when": "Thu Sep 3 - Sun Sep 6 (fireworks Sat evening, Parade of Sail Sun 10am)",
-      "name": "Gloucester Schooner Festival (42nd annual)",
-      "theme": "festival",
-      "zone": "Cape Ann",
-      "drive": "~45 min",
-      "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Free from shore &middot; Gloucester Harbor, Gloucester &middot; Tall ships fill the harbor for the best maritime weekend on the North Shore. Fireworks over the water Saturday evening (fireworks sails leave around 8:00-8:15pm, so confirm the exact show time in the program). Parade of Sail Sunday 10am, Mayor's Cup Races Sunday 1pm. Stacy Boulevard for the parade, Stage Fort Park for the fireworks. Big crowds and tight parking, so get to Stage Fort early with chairs. <a href=\"https://www.maritimegloucester.org/schooner-festival\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Sep 5, 2pm-8pm (rain date Sun Sep 6)",
-      "name": "Somerville Nepali Street Food Festival",
+      "when": "Fri Sep 11 12-9pm, Sat Sep 12 10am-9pm, Sun Sep 13 9am-6pm",
+      "name": "Hampton Beach Seafood Festival (37th annual)",
       "theme": "food",
-      "zone": "Close to home",
-      "drive": "~15 min",
+      "zone": "Maine / NH",
+      "drive": "~55 min",
       "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Free &middot; Somerville City Hall, 93 Highland Ave, Somerville &middot; Eleven Nepali food vendors, live cultural music and dance, and a DJ in from Nepal. Closest thing on the list and the easiest yes of the weekend: park once, eat everything. <a href=\"https://www.somervillema.gov/events/2026/09/05/somerville-nepali-street-food-festival\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-09-06",
+      "meta": "$15 for all three days, kids 12 and under free &middot; Hampton Beach, NH &middot; Sixty-plus restaurants on the sand, three stages of live music, fireworks, and the ocean right there. Best single fit of the year for this family: seafood, ocean, live music, and it works for a 4-year-old and a 14-year-old at once. Also the most crowded Seacoast day of the year, so park in the state lots south of the strip or take the shuttle and be there before 11am Saturday. <a href=\"https://hamptonbeach.org/events/seafood-festival/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "weekend",
-      "when": "Sun Sep 6, 10am-6pm",
-      "name": "Open Newbury Street",
+      "when": "Sat Sep 12 and Sun Sep 13, 11am-6pm",
+      "name": "Boston Arts Festival (24th year)",
       "theme": "festival",
       "zone": "Boston",
       "drive": "~25 min",
       "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Free &middot; Newbury St, Berkeley to Mass Ave, Back Bay, Boston &middot; Newbury goes car-free and pedestrian-only for the day. Cafes spill into the street, easy walking, good morning coffee-and-pastry stop first. Take the T; Back Bay parking on a car-free Sunday is a losing game. <a href=\"https://www.boston.gov/departments/transportation/open-newbury-street\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-09-06",
+      "meta": "Free &middot; Christopher Columbus Waterfront Park, Boston &middot; Fifty-plus local artists on the harbor, live music, dance performances, workshops. Blankets and picnics encouraged. Walk to the North End after. Take the T to Aquarium; harbor parking on a festival Saturday is a bad plan. <a href=\"https://calendar.artsboston.org/event/the-boston-arts-festival/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "weekend",
-      "when": "Sat Sep 5 (set time verify)",
-      "name": "Tom Rush at Prescott Park Arts Festival",
-      "theme": "music",
-      "zone": "Maine / NH",
-      "drive": "~55 min",
-      "confidence": "med",
-      "last_verified": "2026-08-30",
-      "meta": "Suggested donation around $20, nobody turned away (verify) &middot; Prescott Park, 105 Marcy St, Portsmouth NH &middot; Waterfront outdoor show on the lawn. Blankets and chairs, harbor right there, walkable Portsmouth for dinner after. Confirm set time and whether lawn tables need reserving. <a href=\"https://www.prescottpark.org/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Sep 5 - Mon Sep 7, daytime (verify 2026 hours)",
-      "name": "Newburyport Labor Day Festival",
+      "when": "Fri Sep 11 6-11pm, Sat Sep 12 1-11pm, Sun Sep 13 1-10pm",
+      "name": "101st Feast of Saints Cosmas and Damian",
       "theme": "festival",
-      "zone": "North Shore",
-      "drive": "~45 min",
-      "confidence": "med",
-      "last_verified": "2026-08-30",
-      "meta": "Free performances &middot; Downtown Newburyport and the waterfront &middot; Three days of free band concerts, buskers, magicians, jugglers, craft vendors and a dog parade. Several listings still carry old years, so verify the 2026 dates and daily times on the city calendar before driving up. <a href=\"https://www.cityofnewburyport.com/calendar-by-event-type/1493+1503+1513\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Labor Day weekend, beach open early; Great House tours on the hour",
-      "name": "Crane Beach and Castle Hill, Ipswich",
-      "theme": "outdoors",
-      "zone": "North Shore",
-      "drive": "~45 min",
-      "confidence": "med",
-      "last_verified": "2026-08-30",
-      "meta": "Beach parking fee; Great House tours ticketed (price verify) &middot; 290 Argilla Rd, Ipswich &middot; Last real beach weekend of the season. The Great House at Castle Hill is open for holiday tours, plus a sunset hike out toward Steep Hill Beach and Cedar Point. Crane fills by mid-morning on a holiday weekend, so be in the lot before 9. <a href=\"https://thetrustees.org/place/crane-beach-on-the-crane-estate/\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "weekend",
-      "when": "Sat Sep 5 (kickoff time verify)",
-      "name": "College football is back: BC opens at Cincinnati",
-      "theme": "sports",
-      "sport": "football",
       "zone": "Close to home",
-      "drive": "~0 min",
-      "confidence": "med",
-      "last_verified": "2026-08-30",
-      "meta": "Free at home, or the price of lunch out &middot; On TV; Coastal Mass Brewing, 100 Cummings Center, Beverly if you want a room for it &middot; No pro home game locally this week, so this is the Dave-and-Alex play: BC's season opener on the road, watched somewhere with food and a big screen. Coastal Mass in Beverly is open Sat 12-10pm and is the family-friendly version. Confirm kickoff time and network. <a href=\"https://bceagles.com/sports/football/schedule\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "drive": "~20 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Free &middot; 17 Porter St, East Cambridge &middot; Century-old Italian street feast: carnival rides and games, Italian food stands, candlelight procession Friday, Taylor Dayne headlining Saturday night, Grand Procession Sunday. The rides make this the easiest one for Isabella. <a href=\"https://www.thebostoncalendar.com/events/101st-annual-italian-feast-of-saints-cosmas-damian-2026-east-cambridge\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
-      "tier": "ahead",
+      "tier": "weekend",
+      "when": "Sun Sep 13, 11am-6pm",
+      "name": "32nd Cambridge Carnival International",
+      "theme": "festival",
+      "zone": "Boston",
+      "drive": "~20 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Free &middot; University Park Commons, Cambridge &middot; Costumes, steel pan, soca and dance through Cambridgeport, plus food and craft vendors. Around 100,000 people. One of the best free days of the year for KK. Red Line to Central, do not drive. <a href=\"https://www.cambridgecarnival.org/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Sep 12, 12-5pm (rain date Sun Sep 13)",
+      "name": "Gilman Square Arts & Music Festival",
+      "theme": "music",
+      "zone": "Close to home",
+      "drive": "~15 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Free &middot; Edward L. Leathers Community Park, Somerville &middot; Live music, artists, crafters, food vendors, family activities. Walnut Street closes from Pearl to Medford. Closest thing on the list and the lowest-effort yes of the weekend. <a href=\"https://somervilleartscouncil.org/events/gilman-sq-fest/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
+      "when": "Sat Sep 12, 11am-4pm",
+      "name": "Revere Beach Art Festival",
+      "theme": "outdoors",
+      "zone": "Close to home",
+      "drive": "~20 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Free &middot; Markey Memorial Bridge, Revere Beach &middot; Local artists, live music and a live art competition on the oldest public beach in the country. Short, oceanside, easy to pair with a walk on the sand. <a href=\"https://www.reverebeachpartnership.com/events-rbp/art-festival-2/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "weekend",
       "when": "Fri Sep 11, 7:30pm",
       "name": "Boston College vs Rutgers (Red Bandanna Game)",
       "theme": "sports",
@@ -89,30 +77,8 @@
       "zone": "Boston",
       "drive": "~30 min",
       "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Ticketed &middot; Alumni Stadium, 2599 Beacon St, Chestnut Hill &middot; BC's home opener on the 25th anniversary of 9/11, honoring Welles Crowther. Night game, real atmosphere, and the best value college football ticket near Boston. Single-game seats are on sale now and this one will move. <a href=\"https://bceagles.com/game-center/26779\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Fri Sep 11 6-11pm, Sat Sep 12 1-11pm, Sun Sep 13 1-10pm",
-      "name": "101st Feast of Saints Cosmas and Damian",
-      "theme": "festival",
-      "zone": "Close to home",
-      "drive": "~20 min",
-      "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Free &middot; 17 Porter St, East Cambridge &middot; Candlelight procession and fireworks Friday, Taylor Dayne headlining Saturday, and the Grand Procession Sunday at 1:30pm through East Cambridge and Somerville. Carnival rides, games, Italian food. <a href=\"https://www.cosmas-and-damian.org/schedule\" target=\"_blank\" rel=\"noopener\">source</a>"
-    },
-    {
-      "tier": "ahead",
-      "when": "Sun Sep 13, 11am-6pm",
-      "name": "32nd Cambridge Carnival International",
-      "theme": "festival",
-      "zone": "Boston",
-      "drive": "~20 min",
-      "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Free &middot; University Park Commons, Cambridge &middot; Around 100,000 people, costumes, steel pan, soca, dance and food and craft vendors. One of the best free days of the year for KK and Isabella. Red Line to Central, do not drive. <a href=\"https://www.cambridgecarnival.org/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-09-06",
+      "meta": "Ticketed &middot; Alumni Stadium, 2599 Beacon St, Chestnut Hill &middot; BC's home opener on the 25th anniversary of 9/11, honoring Welles Crowther. Night game, real atmosphere, best value college football ticket near Boston. The Dave-and-Alex play, and tickets will move. <a href=\"https://bceagles.com/sports/football/schedule\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
@@ -123,8 +89,19 @@
       "zone": "Foxborough",
       "drive": "~50 min",
       "confidence": "high",
-      "last_verified": "2026-08-30",
+      "last_verified": "2026-09-06",
       "meta": "Ticketed, parking free &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; The only Revs home match in September. Cheaper and easier than the NFL, and Patriot Place handles dinner before kickoff. <a href=\"https://www.revolutionsoccer.net/schedule/matches\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Sat Sep 19 and Sun Sep 20, 11am-6pm",
+      "name": "7th Salem Food Truck & Craft Beverage Festival",
+      "theme": "food",
+      "zone": "North Shore",
+      "drive": "~35 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Ticketed &middot; Salem Common, N Washington Sq, Salem &middot; Forty-plus food trucks, local and regional craft beer, artisan market, live music, lawn games. Salem in late September gets busy fast, so buy ahead and go early. <a href=\"https://www.salem.org/event/salem-food-truck-craft-beverage-festival/2026-09-20/\" target=\"_blank\" rel=\"noopener\">source</a>"
     },
     {
       "tier": "ahead",
@@ -135,8 +112,30 @@
       "zone": "Foxborough",
       "drive": "~50 min",
       "confidence": "high",
-      "last_verified": "2026-08-30",
-      "meta": "Ticketed &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; First home game of the season. If this is the year to take Alex to a Patriots game, buy soon; Week 2 home openers do not get cheaper. <a href=\"https://www.patriots.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
+      "last_verified": "2026-09-06",
+      "meta": "Ticketed &middot; Gillette Stadium, 1 Patriot Place, Foxborough &middot; First home game of the season. If this is the year to take Alex to a Patriots game, buy now; home openers do not get cheaper. <a href=\"https://www.patriots.com/schedule/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Sun Sep 27, 2-6pm",
+      "name": "Oktoberfest at Wright-Locke Farm",
+      "theme": "music",
+      "zone": "Close to home",
+      "drive": "~5 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Free admission; beer from Arlington Brewing Company and food from Apritivo for purchase &middot; 82 Ridge St, Winchester &middot; Live music from The Gruvmeiners, Highs in the Low, Kier Byrnes & The Kettle Burners and Ryan Goes Hollywood, on the patio and lawn behind the All Seasons Barn. Garden tour and kids' activities 2-4pm. Free, in town, live music, real beer, real food. <a href=\"https://wlfarm.org/oktoberfest/\" target=\"_blank\" rel=\"noopener\">source</a>"
+    },
+    {
+      "tier": "ahead",
+      "when": "Fri Oct 2 through Mon Oct 12",
+      "name": "Topsfield Fair",
+      "theme": "family",
+      "zone": "North Shore",
+      "drive": "~35 min",
+      "confidence": "high",
+      "last_verified": "2026-09-06",
+      "meta": "Ticketed &middot; 207 Boston St, Topsfield &middot; America's oldest county fair: giant pumpkins, livestock, midway rides, fried dough and grandstand concerts. Half a million people over eleven days. Buy grandstand tickets early if a name act matters. <a href=\"https://www.topsfieldfair.org/\" target=\"_blank\" rel=\"noopener\">source</a>"
     }
   ]
 }
